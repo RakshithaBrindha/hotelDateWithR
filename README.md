@@ -1,2 +1,3 @@
 # Data analysis using R
-- Using R to process and visualise Hotel Data Set
+
+## This project answers few hypothesis by visualising a data set using R
